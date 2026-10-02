@@ -33,17 +33,7 @@ export default function App() {
               <Heart className="w-3.5 h-3.5 text-amber-500 fill-amber-500" />
             </p>
             <span className="hidden sm:inline text-slate-700">•</span>
-            <p>
-              Made by{' '}
-              <a
-                href="https://www.xenosysweb.com/"
-                target="_blank"
-                rel="noreferrer"
-                className="text-amber-400 hover:underline font-medium transition-colors"
-              >
-                xenosys
-              </a>
-            </p>
+           
           </div>
         </div>
       </footer>
